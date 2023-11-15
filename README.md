@@ -1,5 +1,6 @@
 # iocube_slave_C3
-This is Wire Transmission ( Client) example.
+This is bluetooth client on esp32-c3 example.
+
 
 ## How to Use
 1.Find out ioCube device has been connected to yourPC.
