@@ -1,6 +1,8 @@
 # iocube_slave_C3
 This is bluetooth client on esp32-c3 example.
 
+## Board
+![image](https://github.com/ioCubeCa/iocube_master_C3/blob/main/serverboard.jpg)
 
 ## How to Use
 1.Find out ioCube device has been connected to yourPC.
