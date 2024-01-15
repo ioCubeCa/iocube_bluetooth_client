@@ -1,5 +1,5 @@
-# iocube_slave_C3
-This is bluetooth client on esp32-c3 example.
+# iocube_bluetooth_client
+This example developed on the ESP32-C3 module with Bluetooth connectivity. It is the active party.
 
 ## Board
 ![image](https://github.com/ioCubeCa/iocube_master_C3/blob/main/serverboard.jpeg)
